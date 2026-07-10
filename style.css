@@ -190,3 +190,31 @@ hr {
   color: black;
 }
 
+/* footer */
+footer {
+  background-color: #0d1b2a;
+  padding: 3rem 2rem;
+  margin-top: 2rem;
+}
+.footer-first {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer-socaial-container {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+.footer-socaial-container li a {
+  text-decoration: none;
+  color: white;
+}
+footer hr {
+  border: 1px solid #575757;
+  margin: 2rem 0;
+}
+.copyright{
+  color: #c2c1c1;
+  text-align: center;
+}
