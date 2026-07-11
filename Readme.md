@@ -1,6 +1,6 @@
 # DevConf 2026 🚀
 
-DevConf 2026 is a premium, modern single-page developer conference website built using semantic HTML5 and vanilla CSS3. The application features advanced CSS Grid systems, a responsive Bento layout for social proof, custom component styling for tiered pricing, and Font Awesome iconography tracking the industry's latest UI/UX trends.
+DevConf 2026 is a premium, modern single-page developer conference website built using semantic HTML5 and CSS3. The application features CSS Grid systems, Flexbox, custom component styling for tiered pricing, and Font Awesome iconography tracking the industry's latest UI/UX trends.
 
 🔗 **Live Demo:** [https://abdul-wahid789.github.io/DevConf-2026/](https://abdul-wahid789.github.io/DevConf-2026/)
 
